@@ -35,8 +35,6 @@ Account Setup AzurePass and GitHub.md - This will show you how to get your azure
 
 allexamlinks.md - this is all the Microsoft docs pages that the exams could reference (Don't Panic its just to give you an idea)
 
-Timeline.md - This is what we are going to be doing for the next 7 weeks, you can come back to this to see what is on the agenda
-
 Case Studies/CaseStudyReadme.md - info for the Case Studies you will be creating and presenting at the end of the course.
 
 
@@ -44,7 +42,7 @@ Case Studies/CaseStudyReadme.md - info for the Case Studies you will be creating
 
 Each of these course folders will have the slides for the courses and the instructor manual. These slides are provided as they come from Microsoft. The instructor manual is a PDF version of the ebooks you have been provided on skillpipe.com, Microsoft don't like students using the PDf's but I find it makes things so much easier for you than using a DRM eBook.
 
- I personally hate slides and will try my best to avoid them and do as many demos as I can, they do help me in remembering what I have to talk about though. So expect me as an instructor to skim past and delete a lot of slides, simply so you don't have an instructor reading bullet points out on a slide deck for 7 weeks. As this would then mean you would probably want to throw yourself out of the window after a couple of days and I would have a lot of paperwork to fill out. 
+ I personally hate slides and will try my best to avoid them and do as many demos as I can, they do help me in remembering what I have to talk about though. So expect me as an instructor to skim past and delete a lot of slides, simply so you don't have an instructor reading bullet points out on a slide deck for weeks. As this would then mean you would probably want to throw yourself out of the window after a couple of days and I would have a lot of paperwork to fill out. 
 
 AZ-040 - Powershell course
 
@@ -58,7 +56,6 @@ AZ-305 - The advanced course we will be doing (combination of 303+304)
 
 AZ-900 - 1 Day intro into Azure/cloud course, this is really for sales people to be able to think they know what they are talking about and to use the right buzzwords at the right time.
 
-WS-011 - A windows server course based around server 2019 (we don't have this on the agenda but I find it useful to include)
 
 
 ---
