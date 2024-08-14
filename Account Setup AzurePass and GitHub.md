@@ -85,6 +85,11 @@ https://chocolatey.org/
 ---
 
 
+Q0RHJ671RMU35UJPB9   Erlend
+QMV87XSTGY19D3R9PX   Kelvin
+Q8QLPRVKOZDK6RVP9Q   Krystian
+Q9BZQT8XSB0YIZQZNZ   Mads
+
 
 
 
