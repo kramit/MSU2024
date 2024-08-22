@@ -56,7 +56,7 @@ AZ-305 - The advanced course we will be doing (combination of 303+304)
 
 AZ-900 - 1 Day intro into Azure/cloud course, this is really for sales people to be able to think they know what they are talking about and to use the right buzzwords at the right time.
 
-
+Line
 
 ---
 
