@@ -17,13 +17,15 @@ The Windows based machine will need to have installed IIS ready to host an older
 
 
 1x Linux (Ubuntu) based machine:
-The Linux machine will be hosting a publicly accessible guest FTP server installed and configured for clients to download the latest CAD designs for left handed screwdrivers
+The Linux machine will be hosting a publicly accessible via a dedicaed public ip guest FTP server installed and configured for clients to download the latest CAD designs for left handed screwdrivers
 
 data for these requirements will be provided by Acme internally and configured post-deployment by Acme employees
 
 ## Security requirements
 
-The FTP and HTTP/S sites will be be required to be protected by a Firewall solution restricting external access only to ports 80/21/443.
+The FTP and HTTP/S sites will be be required to be protected by a Firewall solution restricting external access only to ports 80/443.
+
+The Linux server will need an NSG to restrict to only ports 22 and 21 for SSH and FTP, it will need its own dedicated public ip address as requested by Acme Inc
 
 Remote access cannot be performed over the public internet, only via an additional jump-box or bastion host access. (For bonus points attempt a remote access solution using a 3rd party tool hosted in Azure e.g. https://guacamole.apache.org/ )
 
